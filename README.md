@@ -1,4 +1,4 @@
-- 👋 Hi there, My name is Ruixuan Zhang. Currenlty, I am a second year Ph.D. student (JSPS DC2) at the Kyoto University supervised by Hiroyuki Ogata. 
+- 👋 Hi there, I am Ruixuan Zhang. Currenlty, I am a second year Ph.D. student (JSPS DC2) at the Kyoto University supervised by Hiroyuki Ogata. 
 
 - 🔭 I am currently interested in deciphering the infection course of giant viruses using multi-omics and the evolution of viruses and their hosts.
 
