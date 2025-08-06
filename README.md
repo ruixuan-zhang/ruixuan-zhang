@@ -1,6 +1,6 @@
-- 👋 Hi there, I am Ruixuan Zhang. Currenlty, I am a Ph.D. student (JSPS DC2) at the Kyoto University supervised by Prof. Hiroyuki Ogata. 
+- 👋 Hi there, I am Ruixuan Zhang. I am a post-doctoral researcher in Hiroyuki Ogata's lab in Kyoto University, Japan.
 
-- 🔭 I am currently interested in deciphering the infection course of giant viruses using multi-omics and the evolution of viruses and their hosts.
+- 🔭 I am interested in genome evolution. I view the genome representing the fitness to current environment, recording past evolutionary events, and constraining the path of evolution in the future. I want to understand the evolutionary rule by integrating wet lab experiments and bioinformatic tools. 
 
 
 <!--
