@@ -2,6 +2,7 @@
 
 - 🔭 I am interested in genome evolution. I view the genome representing the fitness to current environment, recording past evolutionary events, and constraining the path of evolution in the future. I want to understand the evolutionary rule by integrating wet lab experiments and bioinformatic tools. 
 
+- [Personal page](https://ruixuan-zhang.github.io/)
 
 <!--
 **ruixuan-zhang/ruixuan-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
