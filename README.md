@@ -1,6 +1,8 @@
 - 👋 Hi there, I am Ruixuan Zhang. I am a post-doctoral researcher in Hiroyuki Ogata's lab in Kyoto University, Japan.
 
-- 🔭 I am interested in genome evolution. I view the genome representing the fitness to current environment, recording past evolutionary events, and constraining the path of evolution in the future. I want to understand the evolutionary rule by integrating wet lab experiments and bioinformatic tools. 
+- 🔭 I am interested in genome evolution. I view the genome representing the fitness to current environment, recording past evolutionary events, and constraining the path of evolution in the future. I want to understand the evolutionary rule by integrating wet lab experiments and bioinformatic tools.
+
+- Currently, I am using AI for large-scale genomic data exploration.
 
 - [Personal page](https://ruixuan-zhang.github.io/)
 
